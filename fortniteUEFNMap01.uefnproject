@@ -1,0 +1,44 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "fortniteUEFNMap01",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "28.10",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "fortniteUEFNMap01",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "e624bdee-4d10-a326-2c87-f191c898a174",
+		"projectVersePath": "",
+		"modules":
+		{
+			"fortniteUEFNMap01": "5050d8aa-4fc0-3436-da93-38a4de121afe"
+		}
+	}
+}
